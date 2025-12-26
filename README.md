@@ -173,8 +173,7 @@ int main()
 }
 ```
 ## OUTPUT:
-
-	<img width="389" height="189" alt="Screenshot 2025-12-26 154247" src="https://github.com/user-attachments/assets/83f341ce-bd7d-47bc-977b-ab3da10396a0" />
+<img width="389" height="189" alt="Screenshot 2025-12-26 154247" src="https://github.com/user-attachments/assets/83f341ce-bd7d-47bc-977b-ab3da10396a0" />
 
 
 
