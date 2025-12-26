@@ -10,8 +10,16 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
-
+#include<stdio.h>
+int main()
+{
+    int a,b,c;
+    scanf("%d%d%d",&a,&b,&c);
+    printf("%d %d %d",c,b,a);
+    return 0;
+}
 ## OUTPUT:
+<img width="423" height="231" alt="Screenshot 2025-12-26 152402" src="https://github.com/user-attachments/assets/da81ee32-2ce3-4a9b-ae69-75fdc1a837be" />
 
 
 
